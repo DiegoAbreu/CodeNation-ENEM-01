@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.7.0, pytest-3.8.0, py-1.6.0, pluggy-0.7.1 -- /Users/diegoabreu/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/diegoabreu/codenation/enem-1, inifile:
+plugins: remotedata-0.3.0, openfiles-0.3.0, doctestplus-0.1.3, arraydiff-0.2
+collecting ... collected 1 item
+
+test_submit.py::test_part_1 PASSED                                       [100%]
+
+------ generated xml file: /Users/diegoabreu/codenation/enem-1/output.xml ------
+=============================== warnings summary ===============================
+/Users/diegoabreu/anaconda3/lib/python3.7/site-packages/matplotlib/rcsetup.py:20: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Iterable, Mapping
+
+/Users/diegoabreu/anaconda3/lib/python3.7/site-packages/matplotlib/colors.py:53: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Sized
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+===================== 1 passed, 2 warnings in 0.35 seconds =====================
