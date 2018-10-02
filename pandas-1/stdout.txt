@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.6.6, pytest-3.6.1, py-1.5.3, pluggy-0.6.0 -- /Users/diegoabreu/codenation/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/diegoabreu/codenation/pandas-1, inifile:
+collecting ... collected 7 items
+
+test_submit.py::test_part_1 PASSED                                       [ 14%]
+test_submit.py::test_part_2 PASSED                                       [ 28%]
+test_submit.py::test_part_3 PASSED                                       [ 42%]
+test_submit.py::test_part_4 PASSED                                       [ 57%]
+test_submit.py::test_part_5 PASSED                                       [ 71%]
+test_submit.py::test_part_6 PASSED                                       [ 85%]
+test_submit.py::test_part_7 PASSED                                       [100%]
+
+----- generated xml file: /Users/diegoabreu/codenation/pandas-1/output.xml -----
+=========================== 7 passed in 1.19 seconds ===========================
